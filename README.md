@@ -31,6 +31,12 @@ Bu projeyi bilgisayarınızda çalıştırmak için herhangi bir kuruluma ihtiya
 2.  Klasör içindeki `.html` dosyasını (örneğin `index.html`) herhangi bir web tarayıcısında (Chrome, Firefox, Edge vb.) açın.
 3.  Uygulama kullanıma hazır!
 
+## Canlı Demo (Live Preview)
+
+Projenin çalışan halini incelemek için aşağıdaki linke tıklayabilirsiniz:
+
+https://gorevtakipuygulamasi.netlify.app/
+
 ## 🤝 Katkıda Bulunma
 
 Projeyi geliştirmek isterseniz:
